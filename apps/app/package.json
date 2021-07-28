@@ -11,6 +11,7 @@
     "api": "fruit-api"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "fruit-api": "^1.1.11",
     "vue": "^2.6.11",
