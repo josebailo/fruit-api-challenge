@@ -5,10 +5,11 @@ volumes:
 services:
   app:
     image: node:14.17.3-buster
-    command: bash -c "npm run serve"
+    command: bash -c "npm run serve & npm run api"
     working_dir: /var/www/html
     volumes:
       - ./apps/app:/var/www/html
       - npm-cache:/root/.npm
     ports:
       - "8080:8080"
+      - "3000:3000"
