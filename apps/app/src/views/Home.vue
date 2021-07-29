@@ -1,18 +1,24 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <FruitList v-if="fruitList" :fruit-list="fruitList"/>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+import FruitList from '@/components/FruitList'
 
 export default {
   name: 'Home',
   components: {
-    HelloWorld
+    FruitList
+  },
+  computed: {
+    fruitList () {
+      return this.$store.state.fruits
+    }
+  },
+  created () {
+    this.$store.dispatch('loadFruits')
   }
 }
 </script>
