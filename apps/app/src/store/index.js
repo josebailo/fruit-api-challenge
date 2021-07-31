@@ -30,6 +30,9 @@ export default new Vuex.Store({
 
         return false
       })
+    },
+    storeFruit ({ commit, state }, data) {
+      return axios.post('http://localhost:3000/fruit', data)
     }
   },
   modules: {
