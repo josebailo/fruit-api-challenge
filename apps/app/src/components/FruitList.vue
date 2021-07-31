@@ -4,7 +4,7 @@
       v-for="fruit in fruitList"
       :key="fruit.id"
       :to="{ name: 'Fruit', params: { id: fruit.id } }"
-      class="block bg-white shadow-lg rounded-md overflow-hidden sm:flex"
+      class="block bg-white shadow-lg rounded-md overflow-hidden transform transition sm:flex hover:shadow-2xl hover:scale-105 focus:shadow-2xl focus:scale-105"
     >
       <div class="sm:w-48 sm:h-40 sm:flex-shrink-0">
         <img :src="fruit.image" :title="fruit.name" :alt="fruit.name" class="object-cover w-full h-64 sm:h-full">
