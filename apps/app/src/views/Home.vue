@@ -16,9 +16,6 @@ export default {
     fruitList () {
       return this.$store.state.fruits
     }
-  },
-  created () {
-    this.$store.dispatch('loadFruits')
   }
 }
 </script>
