@@ -1,6 +1,6 @@
 <template>
-  <div id="app" class="bg-gray-200 p-3">
-    <section>
+  <div id="app" class="min-h-screen p-3 bg-gray-200">
+    <section class="max-w-xl mx-auto">
       <router-view/>
     </section>
   </div>
