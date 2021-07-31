@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="min-h-screen p-3 bg-gray-200">
+  <div id="app" class="min-h-screen p-3 bg-gray-200 text-black antialiased">
     <section class="max-w-xl mx-auto">
       <router-view/>
     </section>
