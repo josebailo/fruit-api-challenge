@@ -18,10 +18,18 @@ export default new Vuex.Store({
   },
   actions: {
     loadFruits ({ commit, state }) {
-      if (state.fruits === null) {
-        axios.get('http://localhost:3000/fruit')
-          .then(response => commit('storeFruits', response.data.data))
-      }
+      axios.get('http://localhost:3000/fruit')
+        .then(response => commit('storeFruits', response.data.data))
+    },
+    removeFruit ({ dispatch, state }, id) {
+      return new Promise((resolve, reject) => {
+        if (confirm('You are goint to remove the fruit ' + id + '. Are you sure?')) {
+          axios.delete(`http://localhost:3000/fruit/${id}`)
+            .then(() => resolve())
+        }
+
+        return false
+      })
     }
   },
   modules: {
