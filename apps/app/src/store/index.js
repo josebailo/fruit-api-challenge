@@ -10,6 +10,15 @@ export default new Vuex.Store({
     fruits: null,
     loadingFruits: false
   },
+  getters: {
+    getFruits: state => state.fruits,
+    getFruitById: (state, getters) => id => {
+      return getters.getFruits && getters.getFruits.length
+        ? state.fruits.find(fruit => parseInt(fruit.id) === parseInt(id))
+        : null
+    },
+    fruitIsBeingLoaded: state => state.loadingFruits
+  },
   mutations: {
     finishLoadingFruits (state) {
       state.loadingFruits = false

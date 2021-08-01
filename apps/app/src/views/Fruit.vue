@@ -19,9 +19,7 @@ export default {
   },
   computed: {
     fruit () {
-      return this.$store.state.fruits
-        ? this.$store.state.fruits.find(fruit => parseInt(fruit.id) === parseInt(this.$route.params.id))
-        : null
+      return this.$store.getters.getFruitById(this.$route.params.id)
     }
   }
 }

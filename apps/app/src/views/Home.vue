@@ -49,10 +49,10 @@ export default {
   },
   computed: {
     fruitList () {
-      return this.$store.state.fruits
+      return this.$store.getters.getFruits
     },
     loading () {
-      return this.$store.state.loadingFruits
+      return this.$store.getters.fruitIsBeingLoaded
     }
   }
 }
