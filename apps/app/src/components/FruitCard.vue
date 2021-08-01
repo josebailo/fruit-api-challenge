@@ -54,7 +54,7 @@ export default {
   },
   computed: {
     expirationDate () {
-      return moment(this.fruit.expires).format('D MMMM YYYY, HH:mm')
+      return moment(this.fruit.expires).format('D MMMM YYYY')
     }
   },
   methods: {

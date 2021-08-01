@@ -11,7 +11,7 @@
     @apply block text-sm font-medium text-gray-700;
   }
 
-  input[type="text"], textarea {
+  input[type="text"], input[type="date"], textarea {
     @apply mt-1 block w-full border border-gray-300 px-3 py-2 bg-white rounded-md shadow-sm focus:outline-none focus:ring-green-500 focus:border-green-500;
   }
 
