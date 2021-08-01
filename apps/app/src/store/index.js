@@ -8,18 +8,25 @@ Vue.use(Vuex)
 export default new Vuex.Store({
   state: {
     fruits: null,
-    fruitCount: null
+    loadingFruits: false
   },
   mutations: {
+    finishLoadingFruits (state) {
+      state.loadingFruits = false
+    },
+    startLoadingFruits (state) {
+      state.loadingFruits = true
+    },
     storeFruits (state, fruitList) {
       state.fruits = extractFruitFromDataset(fruitList)
-      state.fruitCount = fruitList.fruitCount
     }
   },
   actions: {
     loadFruits ({ commit, state }) {
+      commit('startLoadingFruits')
       axios.get('http://localhost:3000/fruit')
         .then(response => commit('storeFruits', response.data.data))
+        .then(() => commit('finishLoadingFruits'))
     },
     removeFruit ({ dispatch, state }, id) {
       return new Promise((resolve, reject) => {
