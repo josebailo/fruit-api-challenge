@@ -3,27 +3,31 @@
 @tailwind utilities;
 
 @layer base {
-  .button {
-    @apply inline-flex items-center px-3 py-1 bg-purple-500 text-white rounded hover:bg-purple-600;
+  a {
+    @apply cursor-pointer rounded-md font-medium text-green-600 hover:text-green-500 focus-within:outline-none focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-green-500;
   }
 
-  a, button, input[type="text"], textarea {
-    @apply focus:outline-none focus:ring-2 focus:ring-purple-600;
+  label {
+    @apply block text-sm font-medium text-gray-700;
   }
 
-  .form-field {
-    @apply mt-5 w-full;
+  input[type="text"], textarea {
+    @apply mt-1 block w-full border border-gray-300 px-3 py-2 bg-white rounded-md shadow-sm focus:outline-none focus:ring-green-500 focus:border-green-500;
   }
 
-  .form-field label {
-    @apply block;
-  }
-
-  .form-field input[type="text"], .form-field textarea {
-    @apply mt-2 w-full px-3 py-2 bg-white rounded shadow-inner hover:bg-gray-100;
-  }
-
-  .form-field textarea {
+  textarea {
     @apply h-32 resize-none;
+  }
+
+  .button {
+    @apply inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500;
+  }
+
+  .button.button-red {
+    @apply bg-red-600 hover:bg-red-700 focus:ring-red-500;
+  }
+
+  a.button {
+    @apply hover:text-white;
   }
 }
