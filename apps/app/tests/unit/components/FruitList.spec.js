@@ -36,7 +36,7 @@ describe('FruitList.vue', () => {
     const links = wrapper.findAllComponents(RouterLinkStub)
 
     for (const key in fruits) {
-      expect(links.at(key).props().to).toStrictEqual({ name: 'Fruit', params: { id: fruits[key].id } })
+      expect(links.at(key).props().to).toStrictEqual({ name: 'ShowFruit', params: { id: fruits[key].id } })
     }
   })
 })

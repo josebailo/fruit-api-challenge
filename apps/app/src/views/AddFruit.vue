@@ -130,7 +130,7 @@ export default {
 
       this.$store.dispatch('storeFruit', this.fruit)
         .then(() => this.$store.dispatch('loadFruits'))
-        .then(() => this.$router.push({ name: 'Home' }))
+        .then(() => this.$router.push({ name: 'ListFruit' }))
     }
   }
 }

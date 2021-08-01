@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '@/views/Home'
-import Fruit from '@/views/Fruit'
+import ListFruit from '@/views/ListFruit'
+import ShowFruit from '@/views/ShowFruit'
 import AddFruit from '@/views/AddFruit'
 
 Vue.use(VueRouter)
@@ -9,8 +9,8 @@ Vue.use(VueRouter)
 const routes = [
   {
     path: '/',
-    name: 'Home',
-    component: Home
+    name: 'ListFruit',
+    component: ListFruit
   },
   {
     path: '/fruit/add',
@@ -19,8 +19,8 @@ const routes = [
   },
   {
     path: '/fruit/:id',
-    name: 'Fruit',
-    component: Fruit
+    name: 'ShowFruit',
+    component: ShowFruit
   }
 ]
 

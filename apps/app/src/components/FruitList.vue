@@ -3,7 +3,7 @@
     <router-link
       v-for="fruit in fruitList"
       :key="fruit.id"
-      :to="{ name: 'Fruit', params: { id: fruit.id } }"
+      :to="{ name: 'ShowFruit', params: { id: fruit.id } }"
       class="flex items-center bg-white shadow rounded-md overflow-hidden transform transition hover:shadow-xl hover:scale-105 focus:shadow-xl focus:scale-105"
     >
       <div class="w-20 h-20 flex-shrink-0">

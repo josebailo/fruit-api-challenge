@@ -61,7 +61,7 @@ describe('FruitCard.vue', () => {
   //       store: new Vuex.Store({ actions }),
   //       router: new VueRouter({
   //         routes: [{
-  //           name: 'Home',
+  //           name: 'ListFruit',
   //           path: '/'
   //         }]
   //       }),

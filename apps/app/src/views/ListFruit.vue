@@ -41,7 +41,7 @@ import EmptyState from '@/components/EmptyState'
 import FruitList from '@/components/FruitList'
 
 export default {
-  name: 'Home',
+  name: 'ListFruit',
   components: {
     EmptyState,
     FruitList

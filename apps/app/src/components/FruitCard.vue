@@ -61,7 +61,7 @@ export default {
     remove () {
       this.$store.dispatch('removeFruit', this.fruit.id)
         .then(() => this.$store.dispatch('loadFruits'))
-        .then(() => this.$router.push({ name: 'Home' }))
+        .then(() => this.$router.push({ name: 'ListFruit' }))
     }
   }
 }

@@ -17,12 +17,12 @@ describe('BackButton.vue', () => {
     expect(svg.exists()).toBe(true)
   })
 
-  it('redirect to home', () => {
+  it('redirect to ListFruit', () => {
     const wrapper = shallowMount(BackButton, {
       stubs: {
         RouterLink: RouterLinkStub
       }
     })
-    expect(wrapper.findComponent(RouterLinkStub).props().to).toStrictEqual({ name: 'Home' })
+    expect(wrapper.findComponent(RouterLinkStub).props().to).toStrictEqual({ name: 'ListFruit' })
   })
 })

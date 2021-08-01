@@ -17,7 +17,7 @@ import EmptyState from '@/components/EmptyState'
 import FruitCard from '@/components/FruitCard'
 
 export default {
-  name: 'Fruit',
+  name: 'ShowFruit',
   components: {
     BackButton,
     EmptyState,
