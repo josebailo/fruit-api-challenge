@@ -1,0 +1,250 @@
+{
+    "data": {
+        "what": {
+            "is": {
+                "here": {
+                    "name": "Jayda",
+                    "username": "Jayda83",
+                    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/begreative/128.jpg",
+                    "email": "Jayda83.Dicki@gmail.com",
+                    "dob": "1949-03-03T13:42:13.453Z",
+                    "phone": "1-507-918-1155 x801",
+                    "address": {
+                        "street": "Hartmann Lodge",
+                        "suite": "Apt. 244",
+                        "city": "South Leonora",
+                        "zipcode": "21341-9752",
+                        "geo": {
+                            "lat": "31.3869",
+                            "lng": "-135.4357"
+                        }
+                    },
+                    "website": "jonas.net",
+                    "company": {
+                        "name": "Kreiger, Spinka and Fritsch",
+                        "catchPhrase": "Customer-focused executive artificial intelligence",
+                        "bs": "dynamic iterate web-readiness"
+                    }
+                }
+            }
+        },
+        "amIaFruit": {
+            "name": "watermelon",
+            "image": "https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png",
+            "price": "1",
+            "color": "#fff",
+            "description": "this is watermelon",
+            "taste": "sweet",
+            "expires": "2022-01-01",
+            "isFruit": true,
+            "id": 7
+        },
+        "iDidntThinkSo": {
+            "name": "grape",
+            "image": "https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png",
+            "price": "1",
+            "color": "#fff",
+            "description": "this is grape",
+            "taste": "sweet",
+            "expires": "2022-01-01",
+            "isFruit": true,
+            "id": 8
+        },
+        "maybe": {
+            "or": {
+                "this?": {
+                    "does": {
+                        "it": {
+                            "ever": {
+                                "end": {
+                                    "name": "Cordie",
+                                    "username": "Cordie6",
+                                    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vytautas_a/128.jpg",
+                                    "email": "Cordie68@yahoo.com",
+                                    "dob": "1971-10-29T19:18:15.154Z",
+                                    "phone": "426-652-0881",
+                                    "address": {
+                                        "street": "Powlowski Squares",
+                                        "suite": "Apt. 485",
+                                        "city": "Omerbury",
+                                        "zipcode": "25769",
+                                        "geo": {
+                                            "lat": "60.9344",
+                                            "lng": "21.4572"
+                                        }
+                                    },
+                                    "website": "elena.biz",
+                                    "company": {
+                                        "name": "Botsford - Blick",
+                                        "catchPhrase": "Customizable bifurcated help-desk",
+                                        "bs": "24/7 drive web services"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "i": {
+            "will": {
+                "never": {
+                    "code": {
+                        "again": {
+                            "name": "Myrtice Kling",
+                            "username": "Everette.Paucek29",
+                            "email": "Orie_Reinger@yahoo.com",
+                            "address": {
+                                "streetA": "Arno Forge",
+                                "streetB": "9354 Elta Branch",
+                                "streetC": "230 Jaiden Bridge Apt. 696",
+                                "streetD": "Apt. 877",
+                                "city": "Lilatown",
+                                "state": "Kansas",
+                                "country": "Estonia",
+                                "zipcode": "62704-9543",
+                                "geo": {
+                                    "lat": "22.2490",
+                                    "lng": "-160.2278"
+                                }
+                            },
+                            "phone": "1-295-492-0691 x816",
+                            "website": "spencer.info",
+                            "company": {
+                                "name": "King, Wolf and Boyle",
+                                "catchPhrase": "Centralized bottom-line strategy",
+                                "bs": "clicks-and-mortar utilize deliverables"
+                            },
+                            "posts": [
+                                {
+                                    "words": "aut eum et",
+                                    "sentence": "Et impedit laboriosam.",
+                                    "sentences": "Sapiente omnis quibusdam nulla inventore assumenda iure. Fugit asperiores voluptatem qui eaque eveniet aut.",
+                                    "paragraph": "Quo omnis aut adipisci. Dolores quibusdam accusamus alias autem consequatur. Sint saepe fuga nulla enim omnis repudiandae sint earum. Voluptatem iusto sapiente cum. Unde pariatur totam nihil quidem animi et. Eius quo aliquid."
+                                },
+                                {
+                                    "words": "doloremque praesentium dicta",
+                                    "sentence": "Laboriosam nam deserunt nemo nihil tempora cumque in.",
+                                    "sentences": "Unde aliquam in sequi amet ut dolore quis. Maiores tempora iusto illum dolorum sapiente temporibus aperiam molestias cum. Quo sint illum ullam omnis nisi dolores maiores voluptatem et. Voluptate non fugiat exercitationem.",
+                                    "paragraph": "Quod nemo eveniet harum eius consequatur illo doloribus. Cupiditate aspernatur omnis rem in expedita quia. Ut quos et eos qui."
+                                },
+                                {
+                                    "words": "vero ullam quia",
+                                    "sentence": "Delectus omnis est molestias unde pariatur excepturi enim quod et.",
+                                    "sentences": "Et sapiente optio delectus qui. A sunt libero at sint. Est debitis esse suscipit explicabo delectus nam eum porro.",
+                                    "paragraph": "Voluptatem commodi accusamus. Laboriosam quia ut molestiae similique dolores nihil est perspiciatis. Quibusdam aut facere veritatis minima rerum amet."
+                                }
+                            ],
+                            "accountHistory": [
+                                {
+                                    "amount": "781.44",
+                                    "date": "2012-02-02T00:00:00.000Z",
+                                    "business": "Osinski, Brown and Spencer",
+                                    "name": "Investment Account 6752",
+                                    "type": "payment",
+                                    "account": "61455079"
+                                },
+                                {
+                                    "amount": "409.65",
+                                    "date": "2012-02-02T00:00:00.000Z",
+                                    "business": "Bernier Group",
+                                    "name": "Auto Loan Account 8409",
+                                    "type": "deposit",
+                                    "account": "37220334"
+                                },
+                                {
+                                    "amount": "259.74",
+                                    "date": "2012-02-02T00:00:00.000Z",
+                                    "business": "O'Keefe Group",
+                                    "name": "Money Market Account 6635",
+                                    "type": "deposit",
+                                    "account": "38452554"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "or": {
+                    "maybe": {
+                        "i": {
+                            "will": {
+                                "name": "Monte Kiehn",
+                                "username": "Shyanne.Torp8",
+                                "email": "Christiana42@yahoo.com",
+                                "address": {
+                                    "street": "Lubowitz Tunnel",
+                                    "suite": "Apt. 190",
+                                    "city": "Trantowshire",
+                                    "zipcode": "81924",
+                                    "geo": {
+                                        "lat": "44.1398",
+                                        "lng": "-150.1339"
+                                    }
+                                },
+                                "phone": "078-134-2799 x458",
+                                "website": "itzel.net",
+                                "company": {
+                                    "name": "Murphy Group",
+                                    "catchPhrase": "Upgradable transitional protocol",
+                                    "bs": "mission-critical benchmark channels"
+                                }
+                            }
+                        }
+                    },
+                    "who": {
+                        "knows": {
+                            "name": "Anastasia Hudson IV",
+                            "username": "Ervin_Kohler",
+                            "email": "Jermey.Lynch42@gmail.com",
+                            "address": {
+                                "street": "O'Kon Inlet",
+                                "suite": "Apt. 417",
+                                "city": "New Johathan",
+                                "zipcode": "53697",
+                                "geo": {
+                                    "lat": "7.6185",
+                                    "lng": "57.9050"
+                                }
+                            },
+                            "phone": "403.148.3100 x72156",
+                            "website": "ernie.name",
+                            "company": {
+                                "name": "Grimes, Schmitt and Heathcote",
+                                "catchPhrase": "Digitized dynamic firmware",
+                                "bs": "e-business transform ROI"
+                            }
+                        }
+                    },
+                    "fruit": {
+                        "name": "cucumber",
+                        "image": "https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png",
+                        "price": "1",
+                        "color": "#fff",
+                        "description": "this is cucumber",
+                        "taste": "sweet",
+                        "expires": "2022-01-01",
+                        "isFruit": false,
+                        "id": 9
+                    }
+                },
+                "fruit": false,
+                "lol": {
+                    "isFruit": false,
+                    "name": "eggplant",
+                    "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/eggplant.jpg",
+                    "price": "726.00",
+                    "color": "#6f3d32",
+                    "description": "Most commonly purple, the spongy, absorbent fruit is used in several cuisines. Typically used as a vegetable in cooking, it is a berry by botanical definition. As a member of the genus Solanum, it is related to the tomato and potato. Like the tomato, its skin and seeds can be eaten, but, like the potato, it is usually eaten cooked. Eggplant is nutritionally low in macronutrient and micronutrient content, but the capability of the fruit to absorb oils and flavors into its flesh through cooking expands its use in the culinary arts.",
+                    "taste": "Intelligent",
+                    "expires": "2021-12-22T03:17:09.643Z",
+                    "id": "ab3b4e27-5d2e-4dc8-98ec-f58564d4bce8"
+                }
+            }
+        },
+        "more": [ ],
+        "here": {
+            "isFruit": true
+        },
+        "fruitCount": 2
+    }
+}

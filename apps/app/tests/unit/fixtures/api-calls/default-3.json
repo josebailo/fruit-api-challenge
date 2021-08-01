@@ -1,0 +1,281 @@
+{
+    "data": {
+        "what": {
+            "is": {
+                "here": {
+                    "name": "Geraldine Von",
+                    "username": "Devyn_Schroeder",
+                    "email": "Casey74@yahoo.com",
+                    "address": {
+                        "street": "Weston Cove",
+                        "suite": "Apt. 020",
+                        "city": "Johnsonchester",
+                        "zipcode": "73585-0804",
+                        "geo": {
+                            "lat": "7.5134",
+                            "lng": "-126.1424"
+                        }
+                    },
+                    "phone": "(431) 944-0374",
+                    "website": "georgiana.biz",
+                    "company": {
+                        "name": "Gislason - Swift",
+                        "catchPhrase": "Future-proofed foreground Graphical User Interface",
+                        "bs": "open-source scale infrastructures"
+                    }
+                }
+            }
+        },
+        "amIaFruit": {
+            "isFruit": true,
+            "name": "orange",
+            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/orange.jpg",
+            "price": "195.00",
+            "color": "#01796b",
+            "description": "The orange is the fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus × sinensis, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.",
+            "taste": "Handmade",
+            "expires": "2020-10-02T12:57:14.621Z",
+            "id": 2
+        },
+        "iDidntThinkSo": {
+            "isFruit": true,
+            "name": "tomato",
+            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/tomato.jpg",
+            "price": "269.00",
+            "color": "#000138",
+            "description": "The tomato is the edible, often red, berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America and Central America.",
+            "taste": "Generic",
+            "expires": "2022-01-09T05:28:09.443Z",
+            "id": 4
+        },
+        "meNeither": {
+            "isFruit": true,
+            "name": "banana",
+            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/banana.jpg",
+            "price": "927.00",
+            "color": "#58164d",
+            "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.",
+            "taste": "Generic",
+            "expires": "2022-04-17T02:54:39.540Z",
+            "id": 3
+        },
+        "maybe": {
+            "this": {
+                "name": "Jane Mraz",
+                "username": "Ardith10",
+                "email": "Gregoria_Miller@gmail.com",
+                "address": {
+                    "streetA": "Wilderman Pike",
+                    "streetB": "9222 Mohr Square",
+                    "streetC": "651 Cruickshank Square Apt. 188",
+                    "streetD": "Apt. 340",
+                    "city": "West Lorine",
+                    "state": "Florida",
+                    "country": "Hong Kong",
+                    "zipcode": "61194-1705",
+                    "geo": {
+                        "lat": "-74.3224",
+                        "lng": "-135.7537"
+                    }
+                },
+                "phone": "1-437-160-8068 x3569",
+                "website": "desiree.name",
+                "company": {
+                    "name": "Farrell, Yost and Littel",
+                    "catchPhrase": "Persevering web-enabled functionalities",
+                    "bs": "web-enabled benchmark paradigms"
+                },
+                "posts": [
+                    {
+                        "words": "aut blanditiis exercitationem",
+                        "sentence": "Dignissimos corrupti numquam quos.",
+                        "sentences": "Illo aut est eaque vel omnis laudantium. Dolorem laborum architecto deserunt. At dignissimos non in qui occaecati cumque nisi. Laborum et voluptatem.",
+                        "paragraph": "Eum qui officia blanditiis ea est atque et officia. Quisquam et voluptatem odit. Reprehenderit sequi repellendus."
+                    },
+                    {
+                        "words": "sint veritatis non",
+                        "sentence": "Soluta quasi qui officiis explicabo qui quo voluptates.",
+                        "sentences": "Nostrum soluta rerum voluptatem odit quibusdam error non. Qui fuga hic. Laboriosam soluta minima laudantium est nobis eos accusantium eos voluptatem. Porro aut aliquid minus distinctio sed qui repudiandae.",
+                        "paragraph": "Eos ducimus officia voluptas cupiditate ipsam numquam fugiat voluptas sint. Quibusdam eos sunt officiis. Veniam quas et exercitationem nihil. Aut perspiciatis consequatur. Quam ipsa rerum ea consequatur voluptates eligendi porro nisi et."
+                    },
+                    {
+                        "words": "et dolore nesciunt",
+                        "sentence": "Rerum voluptatem rerum porro amet deleniti non velit.",
+                        "sentences": "Rem qui ea molestiae nobis nemo rerum saepe veniam ut. Et atque recusandae nobis blanditiis ipsa ut ipsa impedit. Ex temporibus omnis consectetur voluptate illum sit. Rerum dolores necessitatibus vitae tempora pariatur. Nihil a ut.",
+                        "paragraph": "Mollitia hic dolorem. Sit facere quos. Odit illum aspernatur voluptatem beatae."
+                    }
+                ],
+                "accountHistory": [
+                    {
+                        "amount": "948.36",
+                        "date": "2012-02-02T00:00:00.000Z",
+                        "business": "Schmidt - Wiza",
+                        "name": "Savings Account 7455",
+                        "type": "payment",
+                        "account": "02919904"
+                    },
+                    {
+                        "amount": "360.57",
+                        "date": "2012-02-02T00:00:00.000Z",
+                        "business": "Homenick, Spinka and Schuppe",
+                        "name": "Investment Account 8263",
+                        "type": "payment",
+                        "account": "47281613"
+                    },
+                    {
+                        "amount": "551.14",
+                        "date": "2012-02-02T00:00:00.000Z",
+                        "business": "Willms - Koss",
+                        "name": "Personal Loan Account 1824",
+                        "type": "invoice",
+                        "account": "22899407"
+                    }
+                ]
+            },
+            "or": {
+                "this?": {
+                    "isFruit": false,
+                    "name": "eggplant",
+                    "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/eggplant.jpg",
+                    "price": "726.00",
+                    "color": "#6f3d32",
+                    "description": "Most commonly purple, the spongy, absorbent fruit is used in several cuisines. Typically used as a vegetable in cooking, it is a berry by botanical definition. As a member of the genus Solanum, it is related to the tomato and potato. Like the tomato, its skin and seeds can be eaten, but, like the potato, it is usually eaten cooked. Eggplant is nutritionally low in macronutrient and micronutrient content, but the capability of the fruit to absorb oils and flavors into its flesh through cooking expands its use in the culinary arts.",
+                    "taste": "Intelligent",
+                    "expires": "2021-12-22T03:17:09.643Z",
+                    "id": "ab3b4e27-5d2e-4dc8-98ec-f58564d4bce8",
+                    "does": {
+                        "it": {
+                            "ever": {
+                                "end": {
+                                    "name": "Miss Madeline Stokes",
+                                    "username": "Sylvester.Johnston",
+                                    "email": "Annamae_Klocko97@gmail.com",
+                                    "address": {
+                                        "street": "Edward Corners",
+                                        "suite": "Suite 450",
+                                        "city": "Diegoborough",
+                                        "zipcode": "74394",
+                                        "geo": {
+                                            "lat": "-7.5070",
+                                            "lng": "147.5619"
+                                        }
+                                    },
+                                    "phone": "1-583-381-5132 x4545",
+                                    "website": "beau.biz",
+                                    "company": {
+                                        "name": "Volkman, Walsh and Mosciski",
+                                        "catchPhrase": "Adaptive national concept",
+                                        "bs": "interactive utilize infrastructures"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "i": {
+            "will": {
+                "never": {
+                    "code": {
+                        "again": {
+                            "name": "Sammie",
+                            "username": "Sammie_Tromp",
+                            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sulaqo/128.jpg",
+                            "email": "Sammie_Tromp_Kessler@gmail.com",
+                            "dob": "1986-04-24T06:13:42.958Z",
+                            "phone": "1-412-088-1678 x392",
+                            "address": {
+                                "street": "Kameron Islands",
+                                "suite": "Suite 854",
+                                "city": "Alishatown",
+                                "zipcode": "24218-7691",
+                                "geo": {
+                                    "lat": "79.7827",
+                                    "lng": "-141.1786"
+                                }
+                            },
+                            "website": "ephraim.name",
+                            "company": {
+                                "name": "Borer and Sons",
+                                "catchPhrase": "Balanced multimedia local area network",
+                                "bs": "scalable mesh users"
+                            }
+                        }
+                    }
+                },
+                "or": {
+                    "maybe": {
+                        "i": {
+                            "will": {
+                                "name": "Era",
+                                "username": "Era_Leuschke0",
+                                "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sbtransparent/128.jpg",
+                                "email": "Era_Leuschke0.Becker71@yahoo.com",
+                                "dob": "1988-06-24T04:41:35.955Z",
+                                "phone": "(902) 217-1377 x3819",
+                                "address": {
+                                    "street": "Ryan Mills",
+                                    "suite": "Suite 157",
+                                    "city": "Emelieton",
+                                    "zipcode": "69275",
+                                    "geo": {
+                                        "lat": "1.0523",
+                                        "lng": "-12.4053"
+                                    }
+                                },
+                                "website": "karelle.name",
+                                "company": {
+                                    "name": "Stracke - Dare",
+                                    "catchPhrase": "Extended interactive hierarchy",
+                                    "bs": "extensible streamline convergence"
+                                }
+                            }
+                        }
+                    },
+                    "who": {
+                        "knows": {
+                            "isFruit": true,
+                            "name": "kiwi",
+                            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/kiwi.jpg",
+                            "price": "261.00",
+                            "color": "#365b2d",
+                            "description": "Kiwifruit (often shortened to kiwi outside Australia and New Zealand), or Chinese gooseberry, is the edible berry of several species of woody vines in the genus Actinidia.",
+                            "taste": "Fantastic",
+                            "expires": "2021-07-31T19:55:11.537Z",
+                            "id": 6
+                        }
+                    },
+                    "fruit": {
+                        "isFruit": true,
+                        "name": "apple",
+                        "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/apple.jpg",
+                        "price": "126.00",
+                        "color": "#340036",
+                        "description": "An apple is an edible fruit produced by an apple tree.",
+                        "taste": "Practical",
+                        "expires": "2020-08-06T07:24:24.159Z",
+                        "id": 5
+                    }
+                },
+                "fruit": false,
+                "lol": {
+                    "isFruit": true,
+                    "name": "pineapple",
+                    "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/pineapple.jpg",
+                    "price": "782.00",
+                    "color": "#161007",
+                    "description": "The pineapple (Ananas comosus) is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae.",
+                    "taste": "Small",
+                    "expires": "2022-03-17T12:13:57.078Z",
+                    "id": 1
+                }
+            }
+        },
+        "more": [ ],
+        "here": {
+            "isFruit": true
+        },
+        "fruitCount": 6
+    }
+}

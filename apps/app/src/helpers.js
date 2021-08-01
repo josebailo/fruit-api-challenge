@@ -1,7 +1,7 @@
 import Fruit from '@/classes/fruit'
 import { helpers } from 'vuelidate/lib/validators'
 
-const isObject = (object) => {
+export const isObject = (object) => {
   return object !== null && typeof object === 'object'
 }
 
