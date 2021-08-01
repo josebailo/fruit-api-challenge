@@ -24,7 +24,7 @@
       <div v-if="fruit.color">
         <dt class="text-gray-600 font-medium">Color</dt>
         <dd class="flex items-center">
-          <span class="mr-1 inline-block w-4 h-4 rounded" :style="{ backgroundColor: fruit.color }" />
+          <span class="mr-1 inline-block w-4 h-4 border border-gray-300 rounded shadow" :style="{ backgroundColor: fruit.color }" />
           {{ fruit.color }}
         </dd>
       </div>
