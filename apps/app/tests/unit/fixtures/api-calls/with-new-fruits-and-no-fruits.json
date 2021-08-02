@@ -1,0 +1,315 @@
+{
+    "data": {
+        "what": {
+            "is": {
+                "here": {
+                    "name": "Gennaro",
+                    "username": "Gennaro4",
+                    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ecommerceil/128.jpg",
+                    "email": "Gennaro4_Bartell@gmail.com",
+                    "dob": "1970-12-02T11:52:29.581Z",
+                    "phone": "127.769.4502 x539",
+                    "address": {
+                        "street": "Geo Mill",
+                        "suite": "Apt. 333",
+                        "city": "Lake Ricardoton",
+                        "zipcode": "85372",
+                        "geo": {
+                            "lat": "-20.7918",
+                            "lng": "-74.4552"
+                        }
+                    },
+                    "website": "drake.name",
+                    "company": {
+                        "name": "Brakus - Wunsch",
+                        "catchPhrase": "Multi-lateral static superstructure",
+                        "bs": "collaborative enhance e-markets"
+                    }
+                }
+            }
+        },
+        "amIaFruit": {
+            "name": "Leda Balistreri",
+            "username": "Sylvester.Bailey42",
+            "email": "Jazmyn17@hotmail.com",
+            "address": {
+                "street": "Harris Forges",
+                "suite": "Suite 159",
+                "city": "West Yadira",
+                "zipcode": "21330-1953",
+                "geo": {
+                    "lat": "79.5424",
+                    "lng": "125.5841"
+                }
+            },
+            "phone": "489.532.3082 x3884",
+            "website": "theodora.name",
+            "company": {
+                "name": "Paucek and Sons",
+                "catchPhrase": "Exclusive web-enabled capacity",
+                "bs": "best-of-breed transform platforms"
+            }
+        },
+        "iDidntThinkSo": {
+            "isFruit": true,
+            "name": "banana",
+            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/banana.jpg",
+            "price": "927.00",
+            "color": "#58164d",
+            "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.",
+            "taste": "Generic",
+            "expires": "2022-04-17T02:54:39.540Z",
+            "id": 3
+        },
+        "meNeither": {
+            "isFruit": true,
+            "name": "orange",
+            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/orange.jpg",
+            "price": "195.00",
+            "color": "#01796b",
+            "description": "The orange is the fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus × sinensis, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.",
+            "taste": "Handmade",
+            "expires": "2020-10-02T12:57:14.621Z",
+            "id": 2
+        },
+        "maybe": {
+            "this": {
+                "isFruit": true,
+                "name": "pineapple",
+                "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/pineapple.jpg",
+                "price": "782.00",
+                "color": "#161007",
+                "description": "The pineapple (Ananas comosus) is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae.",
+                "taste": "Small",
+                "expires": "2022-03-17T12:13:57.078Z",
+                "id": 1
+            },
+            "or": {
+                "this?": {
+                    "name": "Douglas Ziemann",
+                    "username": "Keon.Shanahan55",
+                    "email": "Gloria49@hotmail.com",
+                    "address": {
+                        "streetA": "Upton Village",
+                        "streetB": "17435 Treutel Wells",
+                        "streetC": "11454 Mayra Burg Suite 225",
+                        "streetD": "Apt. 003",
+                        "city": "Parisianstad",
+                        "state": "Oklahoma",
+                        "country": "American Samoa",
+                        "zipcode": "09943",
+                        "geo": {
+                            "lat": "-17.1790",
+                            "lng": "32.3968"
+                        }
+                    },
+                    "phone": "1-189-489-6884",
+                    "website": "donny.net",
+                    "company": {
+                        "name": "Prosacco - Walker",
+                        "catchPhrase": "Pre-emptive systematic framework",
+                        "bs": "leading-edge evolve partnerships"
+                    },
+                    "posts": [
+                        {
+                            "words": "quo exercitationem officia",
+                            "sentence": "Et molestias odit suscipit quaerat nam.",
+                            "sentences": "Dolores tempora doloribus iusto esse ad facere. Expedita debitis et. Corrupti eum voluptatem consectetur iure. Illo beatae voluptate et aperiam architecto sequi rerum et error. Delectus eum sit tempore voluptas asperiores repudiandae.",
+                            "paragraph": "Hic occaecati nihil molestiae quia repellat voluptatem non ab. Corporis repellendus est consequuntur aut eaque unde. Voluptates quod ipsum. Rerum labore explicabo eaque tempore quisquam suscipit sit iure. Soluta dolorem distinctio iusto dignissimos."
+                        },
+                        {
+                            "words": "tenetur suscipit voluptas",
+                            "sentence": "Porro hic temporibus sit ut cum enim tempore.",
+                            "sentences": "Aspernatur voluptatem sint harum reprehenderit. Accusamus corrupti dignissimos quaerat laboriosam tempore eaque. Quos qui dolorem.",
+                            "paragraph": "Molestiae sunt sit velit voluptas. Quae aliquid suscipit qui inventore quis. Eligendi expedita reiciendis perferendis dignissimos rerum."
+                        },
+                        {
+                            "words": "nihil libero consequatur",
+                            "sentence": "Qui et quas.",
+                            "sentences": "Exercitationem quam enim praesentium omnis porro. Dolor delectus doloremque voluptas.",
+                            "paragraph": "Itaque in magnam. Voluptas est numquam officia et temporibus qui perspiciatis. Ut saepe illo nihil sequi et numquam dolor molestiae. Asperiores quae vero rerum tenetur alias ut et. Ut voluptatibus at."
+                        }
+                    ],
+                    "accountHistory": [
+                        {
+                            "amount": "921.65",
+                            "date": "2012-02-02T00:00:00.000Z",
+                            "business": "Lakin, Kohler and O'Hara",
+                            "name": "Personal Loan Account 3606",
+                            "type": "invoice",
+                            "account": "97161612"
+                        },
+                        {
+                            "amount": "694.60",
+                            "date": "2012-02-02T00:00:00.000Z",
+                            "business": "Green, Stracke and Reinger",
+                            "name": "Money Market Account 4995",
+                            "type": "deposit",
+                            "account": "99613988"
+                        },
+                        {
+                            "amount": "463.42",
+                            "date": "2012-02-02T00:00:00.000Z",
+                            "business": "Stokes - Keebler",
+                            "name": "Personal Loan Account 4776",
+                            "type": "deposit",
+                            "account": "43603553"
+                        }
+                    ],
+                    "does": {
+                        "it": {
+                            "ever": {
+                                "end": {
+                                    "isFruit": false,
+                                    "name": "eggplant",
+                                    "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/eggplant.jpg",
+                                    "price": "726.00",
+                                    "color": "#6f3d32",
+                                    "description": "Most commonly purple, the spongy, absorbent fruit is used in several cuisines. Typically used as a vegetable in cooking, it is a berry by botanical definition. As a member of the genus Solanum, it is related to the tomato and potato. Like the tomato, its skin and seeds can be eaten, but, like the potato, it is usually eaten cooked. Eggplant is nutritionally low in macronutrient and micronutrient content, but the capability of the fruit to absorb oils and flavors into its flesh through cooking expands its use in the culinary arts.",
+                                    "taste": "Intelligent",
+                                    "expires": "2021-12-22T03:17:09.643Z",
+                                    "id": "ab3b4e27-5d2e-4dc8-98ec-f58564d4bce8"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "i": {
+            "will": {
+                "never": {
+                    "code": {
+                        "again": {
+                            "isFruit": true,
+                            "name": "apple",
+                            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/apple.jpg",
+                            "price": "126.00",
+                            "color": "#340036",
+                            "description": "An apple is an edible fruit produced by an apple tree.",
+                            "taste": "Practical",
+                            "expires": "2020-08-06T07:24:24.159Z",
+                            "id": 5
+                        }
+                    }
+                },
+                "or": {
+                    "maybe": {
+                        "i": {
+                            "will": {
+                                "isFruit": true,
+                                "name": "kiwi",
+                                "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/kiwi.jpg",
+                                "price": "261.00",
+                                "color": "#365b2d",
+                                "description": "Kiwifruit (often shortened to kiwi outside Australia and New Zealand), or Chinese gooseberry, is the edible berry of several species of woody vines in the genus Actinidia.",
+                                "taste": "Fantastic",
+                                "expires": "2021-07-31T19:55:11.537Z",
+                                "id": 6
+                            }
+                        }
+                    },
+                    "who": {
+                        "knows": {
+                            "name": "Emie",
+                            "username": "Emie_Blanda",
+                            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bfrohs/128.jpg",
+                            "email": "Emie_Blanda14@yahoo.com",
+                            "dob": "1964-06-27T17:13:21.739Z",
+                            "phone": "467.789.0017 x666",
+                            "address": {
+                                "street": "Raheem Trace",
+                                "suite": "Suite 992",
+                                "city": "Port Maybell",
+                                "zipcode": "75417-1699",
+                                "geo": {
+                                    "lat": "16.4982",
+                                    "lng": "-99.9332"
+                                }
+                            },
+                            "website": "helga.org",
+                            "company": {
+                                "name": "Bergnaum - Nienow",
+                                "catchPhrase": "Extended encompassing functionalities",
+                                "bs": "robust leverage bandwidth"
+                            }
+                        }
+                    },
+                    "fruit": {
+                        "name": "Jesse Corkery",
+                        "username": "Jewell_Kassulke",
+                        "email": "Austyn.Hackett83@gmail.com",
+                        "address": {
+                            "street": "Oberbrunner Harbors",
+                            "suite": "Suite 531",
+                            "city": "North Godfrey",
+                            "zipcode": "47094",
+                            "geo": {
+                                "lat": "57.6285",
+                                "lng": "16.1079"
+                            }
+                        },
+                        "phone": "224.354.8728 x74127",
+                        "website": "hunter.name",
+                        "company": {
+                            "name": "Conroy - Franecki",
+                            "catchPhrase": "Programmable leading edge access",
+                            "bs": "web-enabled streamline technologies"
+                        }
+                    }
+                },
+                "fruit": false,
+                "lol": {
+                    "isFruit": true,
+                    "name": "tomato",
+                    "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/tomato.jpg",
+                    "price": "269.00",
+                    "color": "#000138",
+                    "description": "The tomato is the edible, often red, berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America and Central America.",
+                    "taste": "Generic",
+                    "expires": "2022-01-09T05:28:09.443Z",
+                    "id": 4
+                }
+            }
+        },
+        "more": [
+            {
+                "name": "watermelon",
+                "image": "https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png",
+                "price": "1",
+                "color": "#fff",
+                "description": "this is watermelon",
+                "taste": "sweet",
+                "expires": "2022-01-01",
+                "isFruit": true,
+                "id": 7
+            },
+            {
+                "name": "grape",
+                "image": "https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png",
+                "price": "1",
+                "color": "#fff",
+                "description": "this is grape",
+                "taste": "sweet",
+                "expires": "2022-01-01",
+                "isFruit": true,
+                "id": 8
+            },
+            {
+                "name": "cucumber",
+                "image": "https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png",
+                "price": "1",
+                "color": "#fff",
+                "description": "this is cucumber",
+                "taste": "sweet",
+                "expires": "2022-01-01",
+                "isFruit": false,
+                "id": 9
+            }
+        ],
+        "here": {
+            "isFruit": true
+        },
+        "fruitCount": 8
+    }
+}

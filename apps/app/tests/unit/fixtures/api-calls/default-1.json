@@ -1,0 +1,281 @@
+{
+    "data": {
+        "what": {
+            "is": {
+                "here": {
+                    "name": "Kory",
+                    "username": "Kory_Ondricka",
+                    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/pierre_nel/128.jpg",
+                    "email": "Kory_Ondricka.Walter@hotmail.com",
+                    "dob": "1979-06-21T07:33:09.770Z",
+                    "phone": "(993) 593-3680",
+                    "address": {
+                        "street": "Lon Fields",
+                        "suite": "Suite 319",
+                        "city": "West Myah",
+                        "zipcode": "30658-4809",
+                        "geo": {
+                            "lat": "5.7543",
+                            "lng": "-27.0814"
+                        }
+                    },
+                    "website": "wilson.biz",
+                    "company": {
+                        "name": "Hahn Group",
+                        "catchPhrase": "Open-source secondary instruction set",
+                        "bs": "leading-edge maximize e-markets"
+                    }
+                }
+            }
+        },
+        "amIaFruit": {
+            "name": "Hellen Batz",
+            "username": "Lennie99",
+            "email": "Hal.Parisian@hotmail.com",
+            "address": {
+                "street": "Ian Mews",
+                "suite": "Suite 494",
+                "city": "Port Billie",
+                "zipcode": "05271",
+                "geo": {
+                    "lat": "35.8700",
+                    "lng": "-81.4856"
+                }
+            },
+            "phone": "515.361.4219 x47269",
+            "website": "gina.info",
+            "company": {
+                "name": "Bernier - Pfannerstill",
+                "catchPhrase": "Visionary clear-thinking orchestration",
+                "bs": "killer cultivate e-business"
+            }
+        },
+        "iDidntThinkSo": {
+            "isFruit": true,
+            "name": "tomato",
+            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/tomato.jpg",
+            "price": "269.00",
+            "color": "#000138",
+            "description": "The tomato is the edible, often red, berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America and Central America.",
+            "taste": "Generic",
+            "expires": "2022-01-09T05:28:09.443Z",
+            "id": 4
+        },
+        "meNeither": {
+            "isFruit": true,
+            "name": "banana",
+            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/banana.jpg",
+            "price": "927.00",
+            "color": "#58164d",
+            "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.",
+            "taste": "Generic",
+            "expires": "2022-04-17T02:54:39.540Z",
+            "id": 3
+        },
+        "maybe": {
+            "this": {
+                "isFruit": true,
+                "name": "kiwi",
+                "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/kiwi.jpg",
+                "price": "261.00",
+                "color": "#365b2d",
+                "description": "Kiwifruit (often shortened to kiwi outside Australia and New Zealand), or Chinese gooseberry, is the edible berry of several species of woody vines in the genus Actinidia.",
+                "taste": "Fantastic",
+                "expires": "2021-07-31T19:55:11.537Z",
+                "id": 6
+            },
+            "or": {
+                "this?": {
+                    "name": "Kenya Keebler",
+                    "username": "Lukas_Bayer95",
+                    "email": "Godfrey.Harber@yahoo.com",
+                    "address": {
+                        "street": "Eve Station",
+                        "suite": "Apt. 078",
+                        "city": "Breitenbergfort",
+                        "zipcode": "10297",
+                        "geo": {
+                            "lat": "-4.9933",
+                            "lng": "-127.0789"
+                        }
+                    },
+                    "phone": "615-663-4376",
+                    "website": "cecilia.biz",
+                    "company": {
+                        "name": "Romaguera, Konopelski and Upton",
+                        "catchPhrase": "De-engineered zero defect emulation",
+                        "bs": "sexy facilitate deliverables"
+                    },
+                    "does": {
+                        "it": {
+                            "ever": {
+                                "end": {
+                                    "isFruit": true,
+                                    "name": "pineapple",
+                                    "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/pineapple.jpg",
+                                    "price": "782.00",
+                                    "color": "#161007",
+                                    "description": "The pineapple (Ananas comosus) is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae.",
+                                    "taste": "Small",
+                                    "expires": "2022-03-17T12:13:57.078Z",
+                                    "id": 1
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "i": {
+            "will": {
+                "never": {
+                    "code": {
+                        "again": {
+                            "name": "Torrey Dickinson DDS",
+                            "username": "Alize.Tromp",
+                            "email": "Yessenia83@gmail.com",
+                            "address": {
+                                "streetA": "Dena Road",
+                                "streetB": "05669 Roberto Landing",
+                                "streetC": "27102 Homenick Ranch Suite 797",
+                                "streetD": "Suite 379",
+                                "city": "Schimmelfurt",
+                                "state": "Louisiana",
+                                "country": "Wallis and Futuna",
+                                "zipcode": "35783-0385",
+                                "geo": {
+                                    "lat": "55.6566",
+                                    "lng": "-56.7109"
+                                }
+                            },
+                            "phone": "(848) 976-6513 x414",
+                            "website": "jamey.com",
+                            "company": {
+                                "name": "Lowe - Tromp",
+                                "catchPhrase": "Compatible bottom-line definition",
+                                "bs": "extensible syndicate markets"
+                            },
+                            "posts": [
+                                {
+                                    "words": "corporis quisquam aut",
+                                    "sentence": "Assumenda voluptates similique dolorem corrupti magnam.",
+                                    "sentences": "Est nesciunt id dolorem deleniti accusantium nisi dolores aliquid. Ipsa tenetur deserunt nihil. Quas exercitationem cupiditate quis et nobis veritatis similique aut. Similique qui optio rerum repellendus sapiente exercitationem doloribus. Quae earum quos ab voluptatibus nemo eum vel sit vitae.",
+                                    "paragraph": "Similique qui dolor qui explicabo. Officia et laboriosam qui cumque. Ducimus provident velit velit nesciunt."
+                                },
+                                {
+                                    "words": "cupiditate rerum velit",
+                                    "sentence": "Distinctio impedit dolor a quia ratione.",
+                                    "sentences": "Libero velit exercitationem ut eos dolorum voluptatibus assumenda enim numquam. Accusamus molestias dolor ut quo minima. Ea iure asperiores aut illum qui deserunt labore necessitatibus aut.",
+                                    "paragraph": "Rerum culpa et mollitia sint consequuntur perspiciatis aut ea. Dicta et a est. Quo ea molestiae voluptas. Cum iste enim tempore incidunt magni consectetur tenetur repudiandae. Eius error ipsam nihil tempore."
+                                },
+                                {
+                                    "words": "ad ea et",
+                                    "sentence": "Quis commodi sunt rerum non.",
+                                    "sentences": "Ad nam temporibus nam eos ea. Voluptate officiis ullam.",
+                                    "paragraph": "Est vel aspernatur nostrum facilis facere cum. Quo numquam facere. Suscipit repellendus consequatur. Animi est totam placeat consequatur fuga quibusdam impedit. Tempora suscipit repudiandae ut earum vel. Dicta autem iure qui nam sed ut aperiam."
+                                }
+                            ],
+                            "accountHistory": [
+                                {
+                                    "amount": "750.31",
+                                    "date": "2012-02-02T00:00:00.000Z",
+                                    "business": "Prosacco Inc",
+                                    "name": "Personal Loan Account 0888",
+                                    "type": "withdrawal",
+                                    "account": "81775985"
+                                },
+                                {
+                                    "amount": "888.71",
+                                    "date": "2012-02-02T00:00:00.000Z",
+                                    "business": "Runolfsson, Marquardt and Abbott",
+                                    "name": "Savings Account 7110",
+                                    "type": "withdrawal",
+                                    "account": "89855240"
+                                },
+                                {
+                                    "amount": "510.39",
+                                    "date": "2012-02-02T00:00:00.000Z",
+                                    "business": "Carter and Sons",
+                                    "name": "Home Loan Account 0622",
+                                    "type": "payment",
+                                    "account": "62199910"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "or": {
+                    "maybe": {
+                        "i": {
+                            "will": {
+                                "isFruit": true,
+                                "name": "orange",
+                                "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/orange.jpg",
+                                "price": "195.00",
+                                "color": "#01796b",
+                                "description": "The orange is the fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus × sinensis, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.",
+                                "taste": "Handmade",
+                                "expires": "2020-10-02T12:57:14.621Z",
+                                "id": 2
+                            }
+                        }
+                    },
+                    "who": {
+                        "knows": {
+                            "isFruit": false,
+                            "name": "eggplant",
+                            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/eggplant.jpg",
+                            "price": "726.00",
+                            "color": "#6f3d32",
+                            "description": "Most commonly purple, the spongy, absorbent fruit is used in several cuisines. Typically used as a vegetable in cooking, it is a berry by botanical definition. As a member of the genus Solanum, it is related to the tomato and potato. Like the tomato, its skin and seeds can be eaten, but, like the potato, it is usually eaten cooked. Eggplant is nutritionally low in macronutrient and micronutrient content, but the capability of the fruit to absorb oils and flavors into its flesh through cooking expands its use in the culinary arts.",
+                            "taste": "Intelligent",
+                            "expires": "2021-12-22T03:17:09.643Z",
+                            "id": "ab3b4e27-5d2e-4dc8-98ec-f58564d4bce8"
+                        }
+                    },
+                    "fruit": {
+                        "name": "Jessica",
+                        "username": "Jessica.Schamberger55",
+                        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/iamglimy/128.jpg",
+                        "email": "Jessica.Schamberger5569@hotmail.com",
+                        "dob": "1943-05-30T23:42:14.289Z",
+                        "phone": "919-145-6677 x3693",
+                        "address": {
+                            "street": "Bret Trail",
+                            "suite": "Suite 243",
+                            "city": "South Lethamouth",
+                            "zipcode": "15813-2596",
+                            "geo": {
+                                "lat": "89.8613",
+                                "lng": "-148.4694"
+                            }
+                        },
+                        "website": "lawrence.org",
+                        "company": {
+                            "name": "Romaguera, Wilderman and Hettinger",
+                            "catchPhrase": "Cross-platform tertiary instruction set",
+                            "bs": "viral deploy vortals"
+                        }
+                    }
+                },
+                "fruit": false,
+                "lol": {
+                    "isFruit": true,
+                    "name": "apple",
+                    "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/apple.jpg",
+                    "price": "126.00",
+                    "color": "#340036",
+                    "description": "An apple is an edible fruit produced by an apple tree.",
+                    "taste": "Practical",
+                    "expires": "2020-08-06T07:24:24.159Z",
+                    "id": 5
+                }
+            }
+        },
+        "more": [ ],
+        "here": {
+            "isFruit": true
+        },
+        "fruitCount": 6
+    }
+}

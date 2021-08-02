@@ -1,0 +1,226 @@
+{
+    "data": {
+        "what": {
+            "is": {
+                "here": {
+                    "isFruit": false,
+                    "name": "eggplant",
+                    "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/eggplant.jpg",
+                    "price": "726.00",
+                    "color": "#6f3d32",
+                    "description": "Most commonly purple, the spongy, absorbent fruit is used in several cuisines. Typically used as a vegetable in cooking, it is a berry by botanical definition. As a member of the genus Solanum, it is related to the tomato and potato. Like the tomato, its skin and seeds can be eaten, but, like the potato, it is usually eaten cooked. Eggplant is nutritionally low in macronutrient and micronutrient content, but the capability of the fruit to absorb oils and flavors into its flesh through cooking expands its use in the culinary arts.",
+                    "taste": "Intelligent",
+                    "expires": "2021-12-22T03:17:09.643Z",
+                    "id": "ab3b4e27-5d2e-4dc8-98ec-f58564d4bce8"
+                }
+            }
+        },
+        "amIaFruit": {
+            "name": "Miss Candelario Gerhold",
+            "username": "Horace31",
+            "email": "Viola.Haley65@hotmail.com",
+            "address": {
+                "street": "Ferry Terrace",
+                "suite": "Suite 913",
+                "city": "Rosieburgh",
+                "zipcode": "49817",
+                "geo": {
+                    "lat": "84.2910",
+                    "lng": "-109.6115"
+                }
+            },
+            "phone": "(049) 978-6690 x027",
+            "website": "peyton.info",
+            "company": {
+                "name": "Dare LLC",
+                "catchPhrase": "Vision-oriented bi-directional initiative",
+                "bs": "transparent extend markets"
+            }
+        },
+        "iDidntThinkSo": {
+            "name": "Neva Crist",
+            "username": "Barbara23",
+            "email": "Justice6@hotmail.com",
+            "address": {
+                "street": "Grimes Circles",
+                "suite": "Apt. 638",
+                "city": "Lake Caterina",
+                "zipcode": "46203",
+                "geo": {
+                    "lat": "89.8683",
+                    "lng": "-136.8924"
+                }
+            },
+            "phone": "(846) 385-8370 x4800",
+            "website": "asia.net",
+            "company": {
+                "name": "Ankunding Inc",
+                "catchPhrase": "Optional impactful help-desk",
+                "bs": "global whiteboard communities"
+            }
+        },
+        "meNeither": {
+            "name": "cucumber",
+            "image": "https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png",
+            "price": "1",
+            "color": "#fff",
+            "description": "this is cucumber",
+            "taste": "sweet",
+            "expires": "2022-01-01",
+            "isFruit": false,
+            "id": 9
+        },
+        "maybe": {
+            "this": {
+                "name": "Chet Bernhard",
+                "username": "Vernon12",
+                "email": "Allan1@yahoo.com",
+                "address": {
+                    "streetA": "Margaret Stravenue",
+                    "streetB": "69413 Torp Station",
+                    "streetC": "22658 Lilliana Pass Apt. 818",
+                    "streetD": "Suite 397",
+                    "city": "Monahanmouth",
+                    "state": "Nebraska",
+                    "country": "Turkmenistan",
+                    "zipcode": "64200-7605",
+                    "geo": {
+                        "lat": "-74.9187",
+                        "lng": "-47.5061"
+                    }
+                },
+                "phone": "1-366-208-5790 x2555",
+                "website": "kara.biz",
+                "company": {
+                    "name": "Gleichner, Ward and Johnston",
+                    "catchPhrase": "Visionary foreground methodology",
+                    "bs": "next-generation maximize action-items"
+                },
+                "posts": [
+                    {
+                        "words": "officiis iusto perspiciatis",
+                        "sentence": "Ipsum sunt beatae fugit nihil.",
+                        "sentences": "Aliquam voluptatem itaque omnis. Et et consequatur reprehenderit occaecati.",
+                        "paragraph": "Voluptas perferendis cupiditate molestiae soluta omnis. Autem accusamus eligendi eligendi asperiores. Et sint qui voluptates id quibusdam enim expedita dolor aut. Consequuntur voluptas porro ducimus. Possimus velit omnis voluptate. Sed optio totam animi sint."
+                    },
+                    {
+                        "words": "omnis aut sequi",
+                        "sentence": "Sed nobis aut necessitatibus quos dicta temporibus tempore molestiae autem.",
+                        "sentences": "Architecto omnis adipisci molestiae consectetur qui unde soluta sunt temporibus. Maxime ea ut velit illum sunt dolores voluptas est. Suscipit aperiam occaecati consequatur impedit adipisci. Numquam dolores quo cupiditate consequatur enim aperiam eos. Dolores quas nulla repudiandae magnam animi.",
+                        "paragraph": "Labore officiis rerum doloremque non perspiciatis enim perferendis delectus. Eveniet reprehenderit at voluptate quos optio omnis ratione dicta. Ex numquam qui dolore harum. Dolor fuga quibusdam quaerat. Tempora quasi vel accusantium neque."
+                    },
+                    {
+                        "words": "corporis ut nostrum",
+                        "sentence": "Ut deleniti autem consequatur voluptatem iusto aliquam.",
+                        "sentences": "Quam consequatur similique laborum quia doloribus. Aspernatur nisi odio animi laborum. Cupiditate facere voluptatem sed aut et vero. Dolores natus nemo sunt deleniti qui molestiae. Et eum animi cumque in impedit sit inventore dolorem a.",
+                        "paragraph": "Nihil quaerat in libero. Dolorem iure placeat. Animi aliquam aut corporis tenetur quidem. Rerum eligendi quaerat cumque consequatur consequatur."
+                    }
+                ],
+                "accountHistory": [
+                    {
+                        "amount": "884.96",
+                        "date": "2012-02-02T00:00:00.000Z",
+                        "business": "Stamm, Simonis and Willms",
+                        "name": "Money Market Account 6745",
+                        "type": "withdrawal",
+                        "account": "77307403"
+                    },
+                    {
+                        "amount": "458.61",
+                        "date": "2012-02-02T00:00:00.000Z",
+                        "business": "Botsford - Waelchi",
+                        "name": "Money Market Account 6635",
+                        "type": "deposit",
+                        "account": "02271831"
+                    },
+                    {
+                        "amount": "672.51",
+                        "date": "2012-02-02T00:00:00.000Z",
+                        "business": "Jacobs - Reichel",
+                        "name": "Home Loan Account 3943",
+                        "type": "payment",
+                        "account": "98786893"
+                    }
+                ]
+            },
+            "or": {
+                "this?": {
+                    "does": {
+                        "it": {
+                            "ever": { }
+                        }
+                    }
+                }
+            }
+        },
+        "i": {
+            "will": {
+                "never": {
+                    "code": {
+                        "again": {
+                            "name": "Angela",
+                            "username": "Angela59",
+                            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/steynviljoen/128.jpg",
+                            "email": "Angela59.Cruickshank85@yahoo.com",
+                            "dob": "1944-07-31T17:54:51.209Z",
+                            "phone": "1-906-536-6184 x350",
+                            "address": {
+                                "street": "Kuhlman Brooks",
+                                "suite": "Apt. 420",
+                                "city": "Deionmouth",
+                                "zipcode": "03734",
+                                "geo": {
+                                    "lat": "-19.0466",
+                                    "lng": "68.0599"
+                                }
+                            },
+                            "website": "jaden.net",
+                            "company": {
+                                "name": "Wyman - Marquardt",
+                                "catchPhrase": "Multi-tiered transitional hub",
+                                "bs": "ubiquitous incubate e-tailers"
+                            }
+                        }
+                    }
+                },
+                "or": {
+                    "maybe": {
+                        "i": { }
+                    },
+                    "who": {
+                        "knows": {
+                            "name": "Mallory",
+                            "username": "Mallory_Cole",
+                            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/iamkarna/128.jpg",
+                            "email": "Mallory_Cole18@yahoo.com",
+                            "dob": "1970-09-13T01:35:51.188Z",
+                            "phone": "984-285-5878",
+                            "address": {
+                                "street": "Mertie Roads",
+                                "suite": "Suite 217",
+                                "city": "East Pascaleburgh",
+                                "zipcode": "18084-5783",
+                                "geo": {
+                                    "lat": "35.2928",
+                                    "lng": "164.8476"
+                                }
+                            },
+                            "website": "kacie.org",
+                            "company": {
+                                "name": "Johnson - Feeney",
+                                "catchPhrase": "Adaptive web-enabled conglomeration",
+                                "bs": "intuitive extend schemas"
+                            }
+                        }
+                    }
+                },
+                "fruit": false
+            }
+        },
+        "more": [ ],
+        "here": {
+            "isFruit": true
+        },
+        "fruitCount": 0
+    }
+}

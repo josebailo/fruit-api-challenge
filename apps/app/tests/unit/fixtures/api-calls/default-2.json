@@ -1,0 +1,281 @@
+{
+    "data": {
+        "what": {
+            "is": {
+                "here": {
+                    "isFruit": true,
+                    "name": "orange",
+                    "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/orange.jpg",
+                    "price": "195.00",
+                    "color": "#01796b",
+                    "description": "The orange is the fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus × sinensis, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.",
+                    "taste": "Handmade",
+                    "expires": "2020-10-02T12:57:14.621Z",
+                    "id": 2
+                }
+            }
+        },
+        "amIaFruit": {
+            "isFruit": false,
+            "name": "eggplant",
+            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/eggplant.jpg",
+            "price": "726.00",
+            "color": "#6f3d32",
+            "description": "Most commonly purple, the spongy, absorbent fruit is used in several cuisines. Typically used as a vegetable in cooking, it is a berry by botanical definition. As a member of the genus Solanum, it is related to the tomato and potato. Like the tomato, its skin and seeds can be eaten, but, like the potato, it is usually eaten cooked. Eggplant is nutritionally low in macronutrient and micronutrient content, but the capability of the fruit to absorb oils and flavors into its flesh through cooking expands its use in the culinary arts.",
+            "taste": "Intelligent",
+            "expires": "2021-12-22T03:17:09.643Z",
+            "id": "ab3b4e27-5d2e-4dc8-98ec-f58564d4bce8"
+        },
+        "iDidntThinkSo": {
+            "isFruit": true,
+            "name": "apple",
+            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/apple.jpg",
+            "price": "126.00",
+            "color": "#340036",
+            "description": "An apple is an edible fruit produced by an apple tree.",
+            "taste": "Practical",
+            "expires": "2020-08-06T07:24:24.159Z",
+            "id": 5
+        },
+        "meNeither": {
+            "name": "Erika",
+            "username": "Erika61",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sachingawas/128.jpg",
+            "email": "Erika61.Roob@gmail.com",
+            "dob": "1967-08-03T18:51:27.577Z",
+            "phone": "1-759-270-7878 x2466",
+            "address": {
+                "street": "Janie Flat",
+                "suite": "Apt. 641",
+                "city": "West Benedictfurt",
+                "zipcode": "39836-4693",
+                "geo": {
+                    "lat": "62.1019",
+                    "lng": "130.4211"
+                }
+            },
+            "website": "ben.info",
+            "company": {
+                "name": "Botsford, Stracke and Schiller",
+                "catchPhrase": "Ameliorated dynamic migration",
+                "bs": "collaborative transition metrics"
+            }
+        },
+        "maybe": {
+            "this": {
+                "name": "Augustine Feil",
+                "username": "Fred_Mueller92",
+                "email": "Brannon_Gleason87@yahoo.com",
+                "address": {
+                    "street": "Schinner Hollow",
+                    "suite": "Apt. 704",
+                    "city": "Dovieside",
+                    "zipcode": "66934-1502",
+                    "geo": {
+                        "lat": "22.7428",
+                        "lng": "91.9339"
+                    }
+                },
+                "phone": "437-132-8578",
+                "website": "jada.name",
+                "company": {
+                    "name": "Trantow, Quitzon and Bailey",
+                    "catchPhrase": "Total well-modulated installation",
+                    "bs": "open-source expedite e-business"
+                }
+            },
+            "or": {
+                "this?": {
+                    "name": "April Wehner Sr.",
+                    "username": "Titus_Lebsack",
+                    "email": "Lila.Kling@gmail.com",
+                    "address": {
+                        "street": "Sandrine Lock",
+                        "suite": "Apt. 647",
+                        "city": "South Bettyport",
+                        "zipcode": "47305-4919",
+                        "geo": {
+                            "lat": "-83.2394",
+                            "lng": "109.2723"
+                        }
+                    },
+                    "phone": "189.869.0027 x1935",
+                    "website": "oswaldo.name",
+                    "company": {
+                        "name": "Buckridge, Champlin and Zemlak",
+                        "catchPhrase": "Robust demand-driven help-desk",
+                        "bs": "dynamic disintermediate convergence"
+                    },
+                    "does": {
+                        "it": {
+                            "ever": {
+                                "end": {
+                                    "name": "Marty",
+                                    "username": "Marty15",
+                                    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/xripunov/128.jpg",
+                                    "email": "Marty15_Upton48@hotmail.com",
+                                    "dob": "1955-07-15T06:50:08.225Z",
+                                    "phone": "(885) 871-9504 x48041",
+                                    "address": {
+                                        "street": "Leda Drive",
+                                        "suite": "Apt. 304",
+                                        "city": "Gerholdfort",
+                                        "zipcode": "39133",
+                                        "geo": {
+                                            "lat": "56.7700",
+                                            "lng": "30.4998"
+                                        }
+                                    },
+                                    "website": "eino.biz",
+                                    "company": {
+                                        "name": "Koepp, Borer and Ward",
+                                        "catchPhrase": "Optimized modular attitude",
+                                        "bs": "24/7 orchestrate e-commerce"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "i": {
+            "will": {
+                "never": {
+                    "code": {
+                        "again": {
+                            "isFruit": true,
+                            "name": "pineapple",
+                            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/pineapple.jpg",
+                            "price": "782.00",
+                            "color": "#161007",
+                            "description": "The pineapple (Ananas comosus) is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae.",
+                            "taste": "Small",
+                            "expires": "2022-03-17T12:13:57.078Z",
+                            "id": 1
+                        }
+                    }
+                },
+                "or": {
+                    "maybe": {
+                        "i": {
+                            "will": {
+                                "isFruit": true,
+                                "name": "kiwi",
+                                "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/kiwi.jpg",
+                                "price": "261.00",
+                                "color": "#365b2d",
+                                "description": "Kiwifruit (often shortened to kiwi outside Australia and New Zealand), or Chinese gooseberry, is the edible berry of several species of woody vines in the genus Actinidia.",
+                                "taste": "Fantastic",
+                                "expires": "2021-07-31T19:55:11.537Z",
+                                "id": 6
+                            }
+                        }
+                    },
+                    "who": {
+                        "knows": {
+                            "isFruit": true,
+                            "name": "banana",
+                            "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/banana.jpg",
+                            "price": "927.00",
+                            "color": "#58164d",
+                            "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.",
+                            "taste": "Generic",
+                            "expires": "2022-04-17T02:54:39.540Z",
+                            "id": 3
+                        }
+                    },
+                    "fruit": {
+                        "name": "Misael Ward",
+                        "username": "Lilly.Osinski91",
+                        "email": "Alayna_Lind@yahoo.com",
+                        "address": {
+                            "streetA": "Garfield Cove",
+                            "streetB": "2671 Runolfsson Dale",
+                            "streetC": "53233 Hirthe Course Apt. 168",
+                            "streetD": "Suite 688",
+                            "city": "New Brandt",
+                            "state": "Maryland",
+                            "country": "Costa Rica",
+                            "zipcode": "85094",
+                            "geo": {
+                                "lat": "80.4084",
+                                "lng": "73.1386"
+                            }
+                        },
+                        "phone": "(938) 442-1003 x763",
+                        "website": "travon.org",
+                        "company": {
+                            "name": "Kilback, Graham and Lang",
+                            "catchPhrase": "Public-key reciprocal knowledge user",
+                            "bs": "turn-key engage action-items"
+                        },
+                        "posts": [
+                            {
+                                "words": "neque molestiae nam",
+                                "sentence": "Accusamus quas ut dolorem nulla autem sit vero quam dolorem.",
+                                "sentences": "Vel voluptate unde. Aut asperiores autem dolorem deleniti et non labore. Tenetur molestiae nihil ut maiores qui.",
+                                "paragraph": "Iusto atque et tempore voluptas debitis fuga quia quae. Veniam autem cum architecto nisi atque quia voluptatum molestias perferendis. Tenetur nihil qui aperiam repellendus aut eaque inventore aut ipsum. Officiis qui non sed accusamus."
+                            },
+                            {
+                                "words": "consectetur cum quae",
+                                "sentence": "Dolor corrupti rem et placeat eum.",
+                                "sentences": "Aperiam odit quod. Sapiente laboriosam soluta doloribus alias quia odio tempore qui ullam. Doloribus tempora maiores dolorem officiis. Consequuntur doloremque voluptatem consectetur dignissimos. Ea aut nam beatae. Numquam aut vitae itaque et dolore asperiores voluptatem et.",
+                                "paragraph": "Atque sunt voluptate necessitatibus aut aliquid quisquam. Voluptate quae laudantium et facilis ab quam. Quia beatae nulla totam dolorem. Iure ex neque excepturi aspernatur praesentium nihil dolor. Laborum quaerat dolor molestias et quia. Reiciendis quis recusandae est soluta quis rerum quod."
+                            },
+                            {
+                                "words": "ipsa assumenda mollitia",
+                                "sentence": "Pariatur dignissimos libero.",
+                                "sentences": "Adipisci odio sed odit dolorem nostrum. Ut excepturi et et repellat. Consequuntur dolor provident nemo est dolorum itaque. Perspiciatis numquam qui non corporis dicta vero consequatur est eligendi. Cupiditate assumenda eum dicta fugiat deserunt commodi nostrum.",
+                                "paragraph": "Ipsa occaecati illo est quisquam aut. Cupiditate sed dolores ipsum vero. Nam omnis quidem et exercitationem voluptatem amet mollitia accusantium molestias."
+                            }
+                        ],
+                        "accountHistory": [
+                            {
+                                "amount": "385.14",
+                                "date": "2012-02-02T00:00:00.000Z",
+                                "business": "Heidenreich, Cremin and Kris",
+                                "name": "Savings Account 9515",
+                                "type": "withdrawal",
+                                "account": "95323201"
+                            },
+                            {
+                                "amount": "782.26",
+                                "date": "2012-02-02T00:00:00.000Z",
+                                "business": "Brakus Group",
+                                "name": "Credit Card Account 2323",
+                                "type": "deposit",
+                                "account": "36085691"
+                            },
+                            {
+                                "amount": "562.65",
+                                "date": "2012-02-02T00:00:00.000Z",
+                                "business": "Jacobi - Paucek",
+                                "name": "Money Market Account 5795",
+                                "type": "deposit",
+                                "account": "00556742"
+                            }
+                        ]
+                    }
+                },
+                "fruit": false,
+                "lol": {
+                    "isFruit": true,
+                    "name": "tomato",
+                    "image": "https://raw.githubusercontent.com/cycloidio/fictional-eureka/master/assets/tomato.jpg",
+                    "price": "269.00",
+                    "color": "#000138",
+                    "description": "The tomato is the edible, often red, berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America and Central America.",
+                    "taste": "Generic",
+                    "expires": "2022-01-09T05:28:09.443Z",
+                    "id": 4
+                }
+            }
+        },
+        "more": [ ],
+        "here": {
+            "isFruit": true
+        },
+        "fruitCount": 6
+    }
+}
