@@ -59,9 +59,9 @@ export default {
   },
   methods: {
     remove () {
-      this.$store.dispatch('removeFruit', this.fruit.id)
-        .then(() => this.$store.dispatch('loadFruits'))
-        .then(() => this.$router.push({ name: 'ListFruit' }))
+      if (window.confirm(`You are goint to remove the fruit ${this.fruit.name}. Are you sure?`)) {
+        this.$emit('remove')
+      }
     }
   }
 }

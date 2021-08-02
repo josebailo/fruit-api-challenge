@@ -1,21 +1,15 @@
-import { mount, createLocalVue } from '@vue/test-utils'
-import Vuex from 'vuex'
-// import VueRouter from 'vue-router'
+import { mount } from '@vue/test-utils'
 import moment from 'moment'
 import fruits from '../fixtures/fruits'
 import FruitCard from '@/components/FruitCard'
 
-const localVue = createLocalVue()
-localVue.use(Vuex)
-// localVue.use(VueRouter)
-
 describe('FruitCard.vue', () => {
-  describe('renders', () => {
-    const fruit = fruits[0]
-    const wrapper = mount(FruitCard, {
-      propsData: { fruit }
-    })
+  const fruit = fruits[0]
+  const wrapper = mount(FruitCard, {
+    propsData: { fruit }
+  })
 
+  describe('renders', () => {
     it('the name', () => {
       expect(wrapper.text()).toMatch(fruit.name)
     })
@@ -48,28 +42,18 @@ describe('FruitCard.vue', () => {
     })
   })
 
-  // describe('reacts to', () => {
-  //   it('the remove button', () => {
-  //     const actions = {
-  //       removeFruit: jest.fn(),
-  //       loadFruits: jest.fn()
-  //     }
-  //
-  //     const fruit = fruits[0]
-  //     const wrapper = mount(FruitCard, {
-  //       propsData: { fruit },
-  //       store: new Vuex.Store({ actions }),
-  //       router: new VueRouter({
-  //         routes: [{
-  //           name: 'ListFruit',
-  //           path: '/'
-  //         }]
-  //       }),
-  //       localVue
-  //     })
-  //
-  //     wrapper.find('button').trigger('click')
-  //     expect(actions.removeFruit).toHaveBeenCalled()
-  //   })
-  // })
+  describe('when the remove button is clicked', () => {
+    it('does not trigger an event if the action is not confirmed', () => {
+      window.confirm = jest.fn(() => false)
+      wrapper.find('button.button-red').trigger('click')
+      expect(wrapper.emitted().remove).toBeFalsy()
+    })
+
+    it('triggers an event if the action is confirmed', () => {
+      window.confirm = jest.fn(() => true)
+      wrapper.find('button.button-red').trigger('click')
+      expect(wrapper.emitted().remove).toBeTruthy()
+      expect(wrapper.emitted().remove.length).toBe(1)
+    })
+  })
 })

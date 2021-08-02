@@ -38,14 +38,7 @@ export default new Vuex.Store({
         .then(() => commit('finishLoadingFruits'))
     },
     removeFruit ({ dispatch, state }, id) {
-      return new Promise((resolve, reject) => {
-        if (confirm('You are goint to remove the fruit ' + id + '. Are you sure?')) {
-          axios.delete(`http://localhost:3000/fruit/${id}`)
-            .then(() => resolve())
-        }
-
-        return false
-      })
+      return axios.delete(`http://localhost:3000/fruit/${id}`)
     },
     storeFruit ({ commit, state }, data) {
       return axios.post('http://localhost:3000/fruit', data)
